@@ -1,0 +1,7 @@
+[
+  {"id": 1, "title": "Курсовая работа по истории", "category": "переплёт", "amount": 45, "completed": true},
+  {"id": 2, "title": "Рекламные буклеты для кафе", "category": "цветная печать", "amount": 120, "completed": false},
+  {"id": 3, "title": "Методичка по Python", "category": "чёрно-белая печать", "amount": 80, "completed": true},
+  {"id": 4, "title": "Афиши для концерта", "category": "цветная печать", "amount": 30, "completed": false},
+  {"id": 5, "title": "Дипломная работа", "category": "переплёт", "amount": 90, "completed": false}
+]
